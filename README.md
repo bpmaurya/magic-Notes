@@ -1,0 +1,3 @@
+# magic-Notes
+
+using javascript
